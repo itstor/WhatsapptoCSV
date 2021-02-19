@@ -10,7 +10,5 @@ $ python3 WhatsapptoCSV.py -i filename -o output_filename
 
 ## Requirement
 
-```
-python3
-pandas
-```
+* python3
+* pandas

@@ -1,4 +1,4 @@
-# WhatsappCSV
+# WhatsapptoCSV
 Convert WhatsApp chat history to CSV
 
 ## Usage
